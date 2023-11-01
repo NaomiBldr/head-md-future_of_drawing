@@ -14,3 +14,4 @@ A workshop on drawing at the [Master Media Design] (https://www.hesge.ch/head/en
 You play in COOP with another person. you push a button to receive a theme, the other player do the same. 
 Each other you have to draw together on a shared screen, and create a narration based on the drawings of the last users.
 
+helloo world

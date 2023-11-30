@@ -56,3 +56,27 @@
 11.16 (Présentation)
     Jour de la présentation, il n'y a visiblement rien à déclaré, je n'ai pas vraiment eu de retour, je ne sais pas si c'est bon signe ou pas.
     J'ai l'impression que mon projet est trop simple et en même temps on me déconseille d'ajouter un autre media.
+
+
+11.27
+Introduction au Arduino, on commence doucement.
+
+11.28
+J'ai un peu de la peine à comprendre mais ça rentre gentiment.
+On a allumé une LED.
+
+11.29
+On a fait du son avec un buzzer.
+On a fait un jeu avec des buzzer pour nouvel an avec Mathilde avec un arduino.
+
+J'ai enfin compris comment on fait une resistance mais j'étais à deux doigts de chialer parce que j'y comrpenait vraiment rien, ha ha.  
+
+Mais c'est bon maintenant.
+
+
+Je crois.
+
+
+11.30
+On a abandonné Rhino 7 et on est sur fusion.
+C'était compliqué mais c'est rentré dans ma caboche sur la fin.

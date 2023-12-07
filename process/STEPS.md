@@ -12,7 +12,7 @@
 
 ## Materials
 
-- Wood
+- Wood MDF teinté dans la masse 16mm 22.80/m2
 - Cut
 - Fasteners ( screws etc)
 - Paper Scroll 30m x2

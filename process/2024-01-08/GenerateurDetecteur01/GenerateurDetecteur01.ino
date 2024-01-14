@@ -24,10 +24,16 @@ void loop() {
 
     // Liste des mots aléatoires
     const char* randomWords[] = {
-      "Apple", "Banana", "Cherry", "Dragon", "Elephant", "Forest",
-      "Giraffe", "Harmony", "Island", "Jupiter", "Kangaroo", "Lighthouse",
-      "Mountain", "Nebula", "Ocean", "Penguin", "Quasar", "Rainbow",
-      "Sunflower", "Tiger", "Umbrella"
+    "Coucher de soleil sur une ville futuriste",
+    "Portrait abstrait mêlant nature et technologie",
+    "Labyrinthe complexe avec des éléments fantastiques",
+    "Animaux sauvages dans un écosystème mystique",
+    "Fusion de cultures à travers des symboles traditionnels",
+    "Vision artistique d'une galaxie lointaine",
+    "Paysage sous-marin avec des créatures imaginaires",
+    "Personnages fantastiques dans un monde steampunk",
+    "Illustration d'une légende urbaine locale",
+    "Composition flor-ale abstraite en noir et blanc"
     };
 
     // Générer un index de mot aléatoire

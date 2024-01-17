@@ -2,7 +2,7 @@
 
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 
-int ldrPin = A0;
+int ldrPin = A1;
 // Lire la valeur du LDR (résistance dépendante de la lumière)
 
 bool pencilWasPresent = false;
@@ -21,7 +21,7 @@ void loop() {
   int ldrVal = analogRead(ldrPin);
   Serial.println(ldrVal);
 
-  bool pencilIsPresent = ldrVal < 500;
+  bool pencilIsPresent = ldrVal < 100;
 
   // Si la lumière est détectée (ajustez la valeur seuil en fonction de votre environnement)
   if (pencilWasPresent && !pencilIsPresent) {
@@ -46,5 +46,5 @@ void loop() {
   }
   //On se rapelle de la présence du crayon pour le prochain loop
   pencilWasPresent = pencilIsPresent;
-      delay(500);
+      delay(200);
 }

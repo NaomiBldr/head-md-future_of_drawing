@@ -11,7 +11,6 @@ A box with a scrolling paper which integrates a pencil dispenser and a screen wh
 
 ![ImagePresentation](/presentations/2024-01-16/Dossier%20240117_HEAD-MD1_Caran-d-Ache_Name-Surname_Project-Name/Links/IMG_5223.jpg)
 
-![ImagePresentation](/presentations/2024-01-16/Dossier%20240117_HEAD-MD1_Caran-d-Ache_Name-Surname_Project-Name/Links/Plan%20de%20travail%204.png)
 # How to play
 You play in COOP or alone.
 Grab a pen and start drawing the prompt that you receive on the screen. When you finish, put the marker back on the whole for the pencil dispenser.

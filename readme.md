@@ -1,5 +1,5 @@
 ![ImagePresentation](/presentations/2024-01-16/Dossier%20240117_HEAD-MD1_Caran-d-Ache_Name-Surname_Project-Name/Links/StructureTriangle_BoisRendering%20v5.png)
-# Game Story Prototype
+# Game Story
 Confluence is a project for Caran d'Ache to boost the creativity by narration using an AI assistant that generate prompts with an axi draw that creates geometrical shapes to encourage people to occupy the whole space, going against the syndrome of the Blank Page.
 The experience can be shared alone or with more people.
 
@@ -9,7 +9,12 @@ A workshop on drawing at the [Master Media Design] (https://www.hesge.ch/head/en
 # Object
 A box with a scrolling paper which integrates a pencil dispenser and a screen where the prompts are printed when you grab a marker with a random color.
 
+![ImagePresentation](/presentations/2024-01-16/Dossier%20240117_HEAD-MD1_Caran-d-Ache_Name-Surname_Project-Name/Links/IMG_5223.jpg)
+
+![ImagePresentation](/presentations/2024-01-16/Dossier%20240117_HEAD-MD1_Caran-d-Ache_Name-Surname_Project-Name/Links/Plan%20de%20travail%204.png)
 # How to play
 You play in COOP or alone.
 Grab a pen and start drawing the prompt that you receive on the screen. When you finish, put the marker back on the whole for the pencil dispenser.
+
+
 
